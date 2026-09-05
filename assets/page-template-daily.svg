@@ -1,0 +1,33 @@
+<svg width="768" height="1024" xmlns="http://www.w3.org/2000/svg">
+  <rect width="768" height="1024" fill="#FDFBF7"/>
+  <!-- Tabs -->
+  <rect x="748" y="884" width="40" height="80" rx="10" fill="#F9D3D3" stroke="#C5A059" stroke-width="1"/>
+  <text x="763" y="924" transform="rotate(-90 763 924)" font-family="Helvetica, sans-serif" font-size="12" fill="#4A403F" text-anchor="middle">Home</text>
+  <rect x="748" y="784" width="40" height="80" rx="10" fill="#F9D3D3" stroke="#C5A059" stroke-width="1"/>
+  <text x="763" y="824" transform="rotate(-90 763 824)" font-family="Helvetica, sans-serif" font-size="12" fill="#4A403F" text-anchor="middle">Daily</text>
+  <rect x="748" y="684" width="40" height="80" rx="10" fill="#F9D3D3" stroke="#C5A059" stroke-width="1"/>
+  <text x="763" y="724" transform="rotate(-90 763 724)" font-family="Helvetica, sans-serif" font-size="12" fill="#4A403F" text-anchor="middle">Weekly</text>
+
+  <!-- Header -->
+  <text x="60" y="944" font-family="Helvetica, sans-serif" font-weight="bold" font-size="32" fill="#4A403F">Daily Scripture</text>
+  <rect x="518" y="934" width="150" height="40" rx="10" fill="#FFFFFF" stroke="#E8D8D8" stroke-width="1"/>
+  <text x="528" y="949" font-family="Helvetica, sans-serif" font-size="14" fill="#B87375">Date:</text>
+  <line x1="60" y1="914" x2="708" y2="914" stroke="#C5A059" stroke-width="1"/>
+
+  <!-- Boxes -->
+  <rect x="60" y="674" width="648" height="200" rx="10" fill="#FFFFFF" stroke="#F4C4B5" stroke-width="1"/>
+  <text x="80" y="844" font-family="Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#B87375">Scripture</text>
+
+  <rect x="60" y="424" width="648" height="220" rx="10" fill="#FFFFFF" stroke="#F4C4B5" stroke-width="1"/>
+  <text x="80" y="614" font-family="Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#B87375">Observation</text>
+
+  <rect x="60" y="224" width="314" height="170" rx="10" fill="#FFFFFF" stroke="#F4C4B5" stroke-width="1"/>
+  <text x="80" y="364" font-family="Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#B87375">Application</text>
+
+  <rect x="394" y="224" width="314" height="170" rx="10" fill="#FFFFFF" stroke="#F4C4B5" stroke-width="1"/>
+  <text x="414" y="364" font-family="Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#B87375">Prayer</text>
+
+  <!-- Heart/Sparkle -->
+  <circle cx="668" cy="80" r="5" fill="#F9D3D3" stroke="none"/>
+  <circle cx="653" cy="95" r="3" fill="#F9D3D3" stroke="none"/>
+</svg>

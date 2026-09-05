@@ -1,0 +1,12 @@
+<svg width="768" height="1024" xmlns="http://www.w3.org/2000/svg">
+  <rect width="768" height="1024" fill="#FDFBF7"/>
+  <circle cx="153" cy="819" r="150" fill="#F4C4B5" stroke="none"/>
+  <circle cx="614" cy="204" r="200" fill="#F9D3D3" stroke="none"/>
+  <rect x="50" y="50" width="668" height="924" stroke="#C5A059" stroke-width="2" fill="none"/>
+  <rect x="55" y="55" width="658" height="914" stroke="#C5A059" stroke-width="2" fill="none"/>
+  <path d="M384 614 C460 716 307 819 384 921" stroke="#B87375" stroke-width="1.5" fill="none"/>
+  <circle cx="407" cy="768" r="5" stroke="#B87375" stroke-width="1" fill="none"/>
+  <circle cx="360" cy="870" r="5" stroke="#B87375" stroke-width="1" fill="none"/>
+  <text x="384" y="562" font-family="Helvetica, sans-serif" font-weight="bold" font-size="48" fill="#4A403F" text-anchor="middle">Scripture Writing Planner</text>
+  <text x="384" y="492" font-family="Helvetica, sans-serif" font-size="24" fill="#B87375" text-anchor="middle">A Daily Journey in the Word</text>
+</svg>

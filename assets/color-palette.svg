@@ -1,0 +1,21 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Warm Peach -->
+  <rect x="0" y="0" width="120" height="200" fill="#F4C4B5"/>
+  <text x="60" y="100" font-family="sans-serif" font-size="14" fill="#4A403F" text-anchor="middle">Peach #F4C4B5</text>
+
+  <!-- Blush Pink -->
+  <rect x="120" y="0" width="120" height="200" fill="#F9D3D3"/>
+  <text x="180" y="100" font-family="sans-serif" font-size="14" fill="#4A403F" text-anchor="middle">Blush #F9D3D3</text>
+
+  <!-- Gold -->
+  <rect x="240" y="0" width="120" height="200" fill="#C5A059"/>
+  <text x="300" y="100" font-family="sans-serif" font-size="14" fill="#FDFBF7" text-anchor="middle">Gold #C5A059</text>
+
+  <!-- Soft Cream -->
+  <rect x="360" y="0" width="120" height="200" fill="#FDFBF7"/>
+  <text x="420" y="100" font-family="sans-serif" font-size="14" fill="#4A403F" text-anchor="middle">Cream #FDFBF7</text>
+
+  <!-- Muted Rose -->
+  <rect x="480" y="0" width="120" height="200" fill="#B87375"/>
+  <text x="540" y="100" font-family="sans-serif" font-size="14" fill="#FDFBF7" text-anchor="middle">Rose #B87375</text>
+</svg>
