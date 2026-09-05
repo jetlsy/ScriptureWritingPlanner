@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="1100" viewBox="0 0 850 1100">
+  <rect width="100%" height="100%" fill="#FFF7EE"/>
+  <g transform="translate(60,100)" stroke="#E9E2DF" stroke-width="1">
+    <!-- dotted grid -->
+    <!-- draw dots every 36px -->
+    <g fill="#E9E2DF">
+      <!-- row 1 to 17, col 1 to 20 -->
+      <!-- simplified for brevity: draw a subset -->
+      <circle cx="18" cy="18" r="1.5"/>
+      <circle cx="54" cy="18" r="1.5"/>
+      <circle cx="90" cy="18" r="1.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <defs>
+    <style>.s{fill:none;stroke:#C99AA2;stroke-width:1.6}</style>
+  </defs>
+  <g class="s" transform="translate(20,20)">
+    <path d="M10 40 C30 10, 70 10, 90 40" />
+    <path d="M30 50 C50 20, 90 20, 110 50" />
+    <circle cx="320" cy="30" r="6" fill="#D6B36A" stroke="none" opacity="0.95"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="1100" viewBox="0 0 850 1100">
+  <defs>
+    <style>
+      .label{font-family:Montserrat, sans-serif; font-size:14px; fill:#6B3A3F}
+      .heading{font-family:'Cormorant Garamond', serif; font-size:22px; fill:#6B3A3F}
+      .box{fill:none;stroke:#E9E2DF;stroke-width:2; rx:8}
+      .day{font-family:Montserrat, sans-serif; font-size:12px; fill:#6B3A3F}
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="#FFF7EE"/>
+  <text x="60" y="80" class="heading">Weekly Overview</text>
+  <!-- seven day boxes -->
+  <g transform="translate(60,110)">
+    <rect x="0" y="0" width="730" height="120" class="box"/>
+    <rect x="0" y="130" width="730" height="120" class="box"/>
+    <rect x="0" y="260" width="730" height="120" class="box"/>
+    <rect x="0" y="390" width="730" height="120" class="box"/>
+    <rect x="0" y="520" width="730" height="120" class="box"/>
+    <rect x="0" y="650" width="730" height="120" class="box"/>
+    <rect x="0" y="780" width="730" height="120" class="box"/>
+    <text x="10" y="22" class="day">Sunday</text>
+    <text x="10" y="152" class="day">Monday</text>
+    <text x="10" y="282" class="day">Tuesday</text>
+    <text x="10" y="412" class="day">Wednesday</text>
+    <text x="10" y="542" class="day">Thursday</text>
+    <text x="10" y="672" class="day">Friday</text>
+    <text x="10" y="802" class="day">Saturday</text>
+  </g>
+</svg>

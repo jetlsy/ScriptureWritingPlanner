@@ -1,0 +1,1 @@
+This repo branch contains the source SVG assets and assembly instructions for the Scripture Writing Planner. The assembled hyperlinked PDF has not yet been generated. If you want me to proceed to generate the final PDF now, ask me to "Generate PDF" and I will assemble and export it and push it to exports/.
