@@ -1,0 +1,44 @@
+<svg width="768" height="1024" xmlns="http://www.w3.org/2000/svg">
+  <rect width="768" height="1024" fill="#FDFBF7"/>
+  <!-- Tabs -->
+  <rect x="748" y="884" width="40" height="80" rx="10" fill="#F9D3D3" stroke="#C5A059" stroke-width="1"/>
+  <text x="763" y="924" transform="rotate(-90 763 924)" font-family="Helvetica, sans-serif" font-size="12" fill="#4A403F" text-anchor="middle">Home</text>
+  <rect x="748" y="784" width="40" height="80" rx="10" fill="#F9D3D3" stroke="#C5A059" stroke-width="1"/>
+  <text x="763" y="824" transform="rotate(-90 763 824)" font-family="Helvetica, sans-serif" font-size="12" fill="#4A403F" text-anchor="middle">Daily</text>
+  <rect x="748" y="684" width="40" height="80" rx="10" fill="#F9D3D3" stroke="#C5A059" stroke-width="1"/>
+  <text x="763" y="724" transform="rotate(-90 763 724)" font-family="Helvetica, sans-serif" font-size="12" fill="#4A403F" text-anchor="middle">Weekly</text>
+
+  <!-- Header -->
+  <text x="60" y="944" font-family="Helvetica, sans-serif" font-weight="bold" font-size="32" fill="#4A403F">Weekly Reflection</text>
+  <line x1="60" y1="914" x2="708" y2="914" stroke="#C5A059" stroke-width="1"/>
+
+  <!-- Days -->
+  <!-- Mon/Fri -->
+  <rect x="60" y="794" width="314" height="100" rx="10" fill="#FFFFFF" stroke="#E8D8D8" stroke-width="1"/>
+  <text x="75" y="869" font-family="Helvetica, sans-serif" font-size="14" fill="#B87375">Monday</text>
+  <rect x="394" y="794" width="314" height="100" rx="10" fill="#FFFFFF" stroke="#E8D8D8" stroke-width="1"/>
+  <text x="409" y="869" font-family="Helvetica, sans-serif" font-size="14" fill="#B87375">Friday</text>
+
+  <!-- Tue/Sat -->
+  <rect x="60" y="674" width="314" height="100" rx="10" fill="#FFFFFF" stroke="#E8D8D8" stroke-width="1"/>
+  <text x="75" y="749" font-family="Helvetica, sans-serif" font-size="14" fill="#B87375">Tuesday</text>
+  <rect x="394" y="674" width="314" height="100" rx="10" fill="#FFFFFF" stroke="#E8D8D8" stroke-width="1"/>
+  <text x="409" y="749" font-family="Helvetica, sans-serif" font-size="14" fill="#B87375">Saturday</text>
+
+  <!-- Wed/Sun -->
+  <rect x="60" y="554" width="314" height="100" rx="10" fill="#FFFFFF" stroke="#E8D8D8" stroke-width="1"/>
+  <text x="75" y="629" font-family="Helvetica, sans-serif" font-size="14" fill="#B87375">Wednesday</text>
+  <rect x="394" y="554" width="314" height="100" rx="10" fill="#FFFFFF" stroke="#E8D8D8" stroke-width="1"/>
+  <text x="409" y="629" font-family="Helvetica, sans-serif" font-size="14" fill="#B87375">Sunday</text>
+
+  <!-- Thu/Memory Verse -->
+  <rect x="60" y="434" width="314" height="100" rx="10" fill="#FFFFFF" stroke="#E8D8D8" stroke-width="1"/>
+  <text x="75" y="509" font-family="Helvetica, sans-serif" font-size="14" fill="#B87375">Thursday</text>
+  <rect x="394" y="434" width="314" height="100" rx="10" fill="#F4C4B5" stroke="none"/>
+  <text x="409" y="509" font-family="Helvetica, sans-serif" font-weight="bold" font-size="14" fill="#4A403F">Memory Verse</text>
+  <line x1="409" y1="499" x2="688" y2="499" stroke="#C5A059" stroke-width="1"/>
+
+  <!-- Notes -->
+  <rect x="60" y="100" width="648" height="314" rx="10" fill="#FFFFFF" stroke="#E8D8D8" stroke-width="1"/>
+  <text x="80" y="384" font-family="Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#B87375">Notes</text>
+</svg>
